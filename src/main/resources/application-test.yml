@@ -1,0 +1,23 @@
+spring:
+  thymeleaf:
+    cache: true
+
+nest:
+  nestTokenAddress: ""
+  # USDT quote mining contract address
+  nestMiningAddress: ""
+  # Ntoken quote mining contract address
+  ntokenMiningAddress: ""
+  # Ntoken manages the contract address
+  nTokenControllerAddress: ""
+
+  # Test 1 million, mainnet 5 million, NToken issue greater than this value, enable post2
+  nTokenMaxTotalSupply: 5000000000000000000000000
+  # Calculate the quoted fee ratio
+  miningFeeRateInflateFactor: 10000
+  # Eat single handling fee ratio
+  biteFeeRate: 0
+  # Eat single quoted assets to increase multiple
+  biteInflateFactor: 2
+  # When you eat a single meal, your NEST increases by multiple, doubling every time you eat a single meal, no matter how long you eat a single meal
+  biteNestInflateFactor: 2
