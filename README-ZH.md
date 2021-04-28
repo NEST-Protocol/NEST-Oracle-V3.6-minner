@@ -24,9 +24,9 @@
 1. 准备好：钱包私钥及相关资产、以太坊节点URL、TOKEN代币合约地址、对应交易所交易对。
    * 钱包私钥：
    通过助记词生成，可通过nestDapp注册。
-   * 需要资产
-   NEST挖矿至少需要准备60.5ETH、价值30ETH的TOKEN代币和价值30ETH的NTOKEN代币以及20万NEST。
-   ntoken挖矿post报价至少需要准备10.5ETH、价值10ETH的TOKEN代币和10万NEST，post2报价至少需要准备20.5ETH、价值20ETH的TOKEN代币和价值20ETH的NTOKEN代币以及20万NEST
+   * 需要资产:
+   <br/>NEST挖矿至少需要准备60.5ETH、价值30ETH的TOKEN代币和价值30ETH的NTOKEN代币以及20万NEST。
+   <br/>ntoken挖矿post报价至少需要准备10.5ETH、价值10ETH的TOKEN代币和10万NEST，post2报价至少需要准备20.5ETH、价值20ETH的TOKEN代币和价值20ETH的NTOKEN代币以及20万NEST
    * 以太坊节点URL。
    * TOKEN代币合约地址：
    例如报价`ETH/USDT`，那么就需要填写USDT代币合约地址`0xdac17f958d2ee523a2206206994597c13d831ec7`。
